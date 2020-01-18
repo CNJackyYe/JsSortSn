@@ -1,3 +1,5 @@
+//堆栈的sno排序方法
+
 var insert = (arr, item, index) => {
     let temparr = [];
     for (let i = arr.length; i > 0; i--) {
